@@ -1,0 +1,4 @@
+prompt_version,mlflow_prompt_version,avg_latency_seconds,avg_input_tokens,avg_output_tokens,avg_cost_per_request_usd,projected_monthly_cost_10000_usd,valid_json_rate,successful_requests,mlflow_run_id
+v1,1,0.09364066059998777,23.4,0,1.17e-06,0.0117,0.0,5,019b95b4d4cb43dba9980f1ebfd8263e
+v2,2,0.09529455339998094,47.4,0,2.37e-06,0.023700000000000002,0.0,5,4f2bce36abc340f8828614eac91e8c0b
+v3,3,0.09239900339999849,87.4,0,4.3700000000000005e-06,0.0437,0.0,5,1333574a702741bebda00b1f5bd52f8f
